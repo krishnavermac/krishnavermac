@@ -1,71 +1,18 @@
-<div align="center">
+# 💫 About Me:
+Hi, I'm Krishna Verma 👋<br><br>Electronics & Communication Engineering student @ IIIT Allahabad<br>Data Structure and Algorithms · Competitive programming · Full-stack development<br><br>Competitive programmer — 2,000+ problems solved across Codeforces, LeetCode, CodeChef, and AtCoder<br><br>Building full-stack projects spanning exam management, resume analysis, and real-time collaboration<br><br>Exploring SDE internship opportunities
 
-# Hi, I'm Krishna 👋
 
-**Electronics & Communication Engineering student @ IIIT Allahabad**
-Applied ML research · Competitive programming · Full-stack development
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishcairns) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-verma-420b3a280) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishna130904@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=krishnavermac&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=krishnavermac&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishnavermac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### About Me
-
-- 🔭 Currently researching **ML-based Concentrated Solar Power (CSP) output prediction** across three Rajasthan cities — using SAM simulation data and ensemble methods (Random Forest, Gradient Boosting, XGBoost, Stacking) with SHAP explainability
-- 💻 Active competitive programmer with hundreds of problems solved in C++ across multiple platforms
-- 🛠️ Building full-stack projects spanning exam management, resume analysis, and real-time collaboration
-- 🎤 Participated in 5+ hackathons and led peer study groups for core ECE coursework
-- 🎯 Exploring SDE / ML internship opportunities
-
----
-
-### Tech Stack
-
-**Languages**
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web & Backend**
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**ML & Data**
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-306998?style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
-
-### Featured Projects
-
-**[AI Resume Analyzer](https://github.com/your-username/repo-name)**
-MERN-stack app that parses resumes and surfaces structured, actionable feedback — includes a custom-designed dark editorial UI.
-
-**[CoDraw](https://github.com/your-username/repo-name)**
-Real-time collaborative whiteboard built with Node.js and Socket.IO, supporting multi-user drawing sessions.
-
-**[Online Examination System](https://github.com/your-username/repo-name)**
-Full exam management platform built with Flask, Jinja2, and MySQL — covers test creation, timed attempts, and result analytics.
-
----
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" height="165" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=your-username" height="165" alt="GitHub streak" />
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
